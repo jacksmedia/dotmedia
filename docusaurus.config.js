@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'J4cks\'s Guides &c',
+  title: 'Jacks Media',
   tagline: 'Enthusiasm, Not Financial Advice',
   url: 'https://j4cks.com',
   baseUrl: '/',
@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'jacksmedia', // Usually your GitHub org/user name.
-  projectName: 'j4cksdotcom', // Usually your repo name.
+  projectName: 'mediadotcom', // Usually your repo name.
 
   presets: [
     [
@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'J4cks.com',
+        title: 'Jacks Media',
         logo: {
           alt: 'Jacks Media',
           src: 'img/Rock98.png',

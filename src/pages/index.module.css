@@ -9,9 +9,9 @@
   position: relative;
   overflow: hidden;
   
-  background: linear-gradient(-14deg, #B1F223, #01DFFF, rgba(0,172,138,0.4));
+  background: linear-gradient(-114deg, #17E6B7, #C1E277, #C8564A);
   background-size: 400% 400%;
-  animation: gradient 23s ease infinite;
+  animation: gradient 17s ease infinite;
 }
 
 @media screen and (max-width: 996px) {

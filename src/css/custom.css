@@ -2,6 +2,7 @@
 /* Fonts */
 /*@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,800;1,500&display=swap');*/
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Taviraj:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arbutus&family=Arbutus+Slab&display=swap');
 /*@import url('./alagard.ttf');*/
 
 /* You can override the default Infima variables here. */
@@ -17,11 +18,11 @@
 }
 
 *, .footer__title {
-  font-family:  "Taviraj";
+  font-family:  'Arbutus Slab', serif;
 }
 
 h1, h2, h3, button {
-  font-family:  "Abril Fatface";
+  font-family:  'Arbutus', cursive;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
